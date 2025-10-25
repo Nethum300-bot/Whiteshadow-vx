@@ -100,7 +100,7 @@ jobs:
         run: npm start
 ```
 
-</details>
+</details> 
 ---
 
 🪀 Support Channel
